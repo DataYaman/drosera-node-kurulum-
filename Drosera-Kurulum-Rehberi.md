@@ -1,5 +1,5 @@
 
-# Drosera Operator Node Kurulum Rehberi (Kısaltılmış & Açıklamalı)
+# Drosera Operator Node Kurulum Rehberi
 
 > Bu rehberde Drosera testnet’ine nasıl katılabileceğini, trap kurup operator node çalıştırmayı adım adım ve açıklamalı olarak gösteriyorum.
 
